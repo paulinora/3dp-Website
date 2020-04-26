@@ -1,0 +1,109 @@
+<!DOCKTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>The 3dprinting Boy</title>
+		<link rel="stylesheet" type="text/css" a href="style.css">
+		<style>
+           
+         
+		
+		
+		</style>
+	</head>
+	<body>
+		<ul>
+  			<li><a class="active" href="#home">Home</a></li>
+  			<li><a href="contact.html">Contact</a></li>
+  			<li><a href="about.html">About</a></li>
+		</ul>
+		<h1>3D Printing</h1>
+		<img src ="https://cdn4.iconfinder.com/data/icons/3d-printing-3/128/6-512.png" width="203">
+		<h2>What is a 3d printer?</h2>
+		
+		<p>Well, a 3d printer a is a machine that takes code from a computer and
+		converts it into a physically observable action. this code is called g-code.<br>
+		The way you obtain this code is by taking a 3d model from a computer, 
+		putting it into a slicer, which then takes that 3d model and converts it into<br>
+		the code that the computer uses to move its motors, heat its hot end, and heat
+		its build plate.
+		</p>
+
+		<h2>How does a 3d printer work?</h2>
+
+		<p> There are many types of 3d printers that use different technologies to
+		make a physical object. The most commonly known 3d printer is a FDM printer.<br>
+		FDM stands for Fused Deposiition Modeling. This is the technology that
+		takes a plastic and extrudes it into layers which build up a physical object.<br>
+		</p>
+
+		<h2>What are the parts of a 3d printer?</h2>
+
+		<p>An FDM 3d printer has many parts that make it able to create a physical
+		object. The Main parts are the Hotend, Extruder, Build Plate, and the circuit<br>
+		board. The Extruder consists of a motor which pushes the filament to the 
+		hotend, the drive gear and idler bearing which guide the filament to the hotend<br>
+		, and the coupling and ptfe tube which connects the extruder to the hotend.
+		The hotend is what melts the plastic from the extruder and lays it down in layers<br>
+		in the y direction. The parts of a hot end are a nozzle which guides the filament to
+		the build plate, The heat block which heats up the nozzle, The thermistor which heats  <br>
+		the heat block, the thermistor that keeps track of the heat and maintains the set temp., 
+		The heat sink that prevents the plastic from melting too high up in the hotend, <br>
+		and the part cooling fan which cools the plastic as it is layed down. The build plate
+		is what the object is printed on and moves in the y direction. The circuit board is<br>
+		what takes the info from the computer and sends it to the thermistor, heat cartrige
+		the motors and the build plate and fans. These parts work together to create final object<br>
+
+		<h2>Parts of a printer</h2>
+
+		<table style="width:50%">
+  			
+			<tr>
+    				<th>Part</th>
+    				<th>Function</th> 
+  			</tr>
+  			
+			<tr>
+    				<td>Hotend</td>
+    				<td>Melts plastic</td>
+  			</tr>
+  			
+			<tr>
+    				<td>Extruder</td>
+    				<td>Pushes plastic towards hotend</td>
+  			</tr>
+  			
+			<tr>
+    				<td>Build Plate</td>
+    				<td>Surface that the object is printed on</td>
+  			</tr>
+
+			<tr>
+				<td>Motors</td>
+				<td>Move axes and extruder</td>
+			</tr>
+  			
+			<tr>
+    				<td>Lead Screws</td>
+    				<td>Lifts x-axis up</td>
+  			</tr>
+  			
+			<tr>
+    				<td>Smooth Rods</td>
+    				<td>Guide x, y, and z-axes to keep them straight </td>
+  			</tr>
+  			
+			<tr>
+    				<td>Bowden Tube</td>
+    				<td>Connects extruder to the hotend</td>
+  			</tr>
+
+			<tr>
+				<td>Belts</td>
+				<td>Move x and y-axes along smooth rods</td>
+			</tr>
+		</table>
+
+		
+	</body>
+</html>
